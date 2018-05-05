@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525506528 source:d:\university stuff\semester 4\software engineering\project\use case coding\user info\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
